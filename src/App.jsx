@@ -1,17 +1,12 @@
-
-import './App.css'
-import SigIn from './auth/SignIn'
-import SignUp from './auth/Signup'
+import "./App.css";
 
 function App() {
-
   return (
     <>
-   <SignUp/>
-   <SigIn/>
-      
+      <h1> Hello World </h1>
+      <h2>my name is diksha</h2>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
